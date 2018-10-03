@@ -1,0 +1,22 @@
+{
+    "email": {
+        "0" :{
+            "avatar": "img/common/tilo-avatar.png",
+            "title": "1 tilo mitra",
+            "emailSubject": "Hello from toronto",
+            "emaildesc": "  Hey, I just wanted to check in with you from Toronto. I got here earlier today."
+        },
+       "1" : {
+            "avatar": "img/common/ericf-avatar.png",
+            "title": "ERIC FERRAIUOLO",
+            "emailSubject": "Re: Pull Requests",
+            "emaildesc": "  Hey, I just wanted to check in with you from Toronto. I got here earlier today."
+        },
+       "2" : {
+            "avatar": "img/common/yui-avatar.png",
+            "title": "YUI LIBRARY",
+            "emailSubject": "You have 5 bugs assigned to you",
+            "emaildesc": " Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla."
+        }
+    }
+}
